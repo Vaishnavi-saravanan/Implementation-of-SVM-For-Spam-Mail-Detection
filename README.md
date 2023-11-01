@@ -29,7 +29,7 @@ Developed by: VAISHNAVI S
 RegisterNumber:  212222230165
 */
 ```
-``1
+```
 import chardet
 file='/content/spam (1).csv'
 with open(file, 'rb') as rawdata:
@@ -74,6 +74,7 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 print("accuracy")
 accuracy
 ```
+
 ## Output:
 
 # DATA.HEAD() :
