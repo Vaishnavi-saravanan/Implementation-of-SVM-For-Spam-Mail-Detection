@@ -78,12 +78,13 @@ accuracy
 ## Output:
 
 # DATA.HEAD() :
-![Screenshot 2023-11-01 220342](https://github.com/Vaishnavi-saravanan/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118541897/5c1777d5-1c5f-4513-858e-9305404b166f)
+![Screenshot 2023-11-01 220349](https://github.com/Vaishnavi-saravanan/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118541897/5fe98236-7583-43a6-91ed-90cf630b02de)
+
 
 
 # DATA.INFO() :
+![Screenshot 2023-11-01 220423](https://github.com/Vaishnavi-saravanan/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118541897/f917ae43-7301-4499-9082-2351413d8d11)
 
-![Uploading Screenshot 2023-11-01 220349.png…]()
 
 # DATA.ISNULL().SUM():
 ![Screenshot 2023-11-01 220423](https://github.com/Vaishnavi-saravanan/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118541897/f7e6a90b-6fa0-48c6-a860-465e165b1c61)
